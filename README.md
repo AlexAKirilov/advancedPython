@@ -1,5 +1,2 @@
-# advancedPython
-Решения заданий из курса Advanced Python на Skillbox
+# advancedPython (это ошибочный репозиторий, правильный был повторно отправлен в GoogleForms (https://github.com/AlexAKirilov/pythonAdvanced.git))
 
-Кирилов Александр Андреевич
-(РИ-220944)
